@@ -147,7 +147,7 @@ if (isset($_GET['delete'])) {
                             ?>
                         </select>
                     </div>
-                    <button class="d-block mx-auto btn btn-primary " name="submit" value="submit">Submit</button>
+                    <button class="d-block mx-auto btn btn-primary " name="submit" value="submit">Save</button>
                 </form>
                 
             </div>
